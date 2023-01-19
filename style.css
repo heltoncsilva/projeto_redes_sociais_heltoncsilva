@@ -30,7 +30,7 @@ section#cell{
 
     height: 627px;
     width: 311px;
-    background: url(imagens/frame-iphone.png) no-repeat;
+    background: url(imagens/frame-iphone.png) no-repeat top center;
 }
 
 iframe#tela{
